@@ -14,8 +14,8 @@ Task 3B
 
 Task 3C
 - Draw the same crosshair (X * Y).
-- Move the crosshair randomly like a screensaver
-- **Extra Marks : Rotate the icon everytime it touches the wall
+- Move the crosshair randomly like a screensaver.
+- **Extra Marks : Rotate the icon everytime it touches the wall.
 
 
 Tutorial By : Muhd Akmal 25350
